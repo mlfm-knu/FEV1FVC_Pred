@@ -39,6 +39,7 @@ Chau N-K, Kim WJ, Lee CH, Chae KJ, Jin GY, Choi S, Integrated Multi-features wit
 ## 5. Usage
 
 ### Data Preparation
+You need to request trained models to MLFM laboratory because of the file size (e-mail: s-choi@knu.ac.kr)
 
 ### Data Structure
 
