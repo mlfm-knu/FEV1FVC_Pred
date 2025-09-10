@@ -9,6 +9,22 @@ This tool was developed by the Machine Learning and Fluid Mechanics Lab at Kyung
 > This software is provided under the Machine Learning and Fluid Mechanics Lab License. 
 > You are free to use, modify, and distribute this software for research purposes, provided that you cite the original paper (see section 3) and acknowledge the developers. Commercial use requires explicit permission from the authors.
 
+Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
+
+Additional Information
+This program is registered software (Copyright Registration No. C-XXX, Korea Copyright Commission).
+Certain parts of the algorithm are protected under Patent No. XX (KIPO).
+Copyright (c) 2024 MLFM Lab, Kyungpook National University.
+Some codes in this repository are modified from Dual deep mesh prior.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and limitations under the License.
 
 ## 3. Reference Paper
 
